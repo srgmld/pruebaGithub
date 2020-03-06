@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583515516242.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "312547318",
+    "id" : "FA5E6C84",
+    "lastKnownWriteTime" : 1583515529,
+    "last_content_update" : 1583515529512,
+    "path" : "C:/Users/SERGIO ANDRES/Google Drive/ggPlot/DATA/Bolivia Electoral/Codigo BE2020/pruebaGithub/prueba.Rmd",
+    "project_path" : "prueba.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
